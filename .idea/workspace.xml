@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="525a1ed1-d105-4b47-8b2b-059b1e21eee6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/org/launchcode/studio7/BaseDisc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/launchcode/studio7/OpticalDisc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/launchcode/studio7/CD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/launchcode/studio7/CD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/launchcode/studio7/DVD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/launchcode/studio7/DVD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/launchcode/studio7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/launchcode/studio7/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +20,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1TLblNw4yfHuUT4eYxfTNG8nVqg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -62,6 +58,28 @@
       <option name="presentableId" value="Default" />
       <updated>1573242472194</updated>
     </task>
+    <task id="LOCAL-00001" summary="studio-8">
+      <created>1581905751827</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581905751827</updated>
+    </task>
+    <task id="LOCAL-00002" summary="studio-7">
+      <created>1581905807649</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581905807649</updated>
+    </task>
+    <task id="LOCAL-00003" summary="studio-7">
+      <created>1581905858452</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581905858452</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,18 +95,28 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="studio 8" />
+    <MESSAGE value="studio-8" />
+    <MESSAGE value="studio-7" />
+    <option name="LAST_COMMIT_MESSAGE" value="studio-7" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="382" y="29" key="CommitChangelistDialog2" timestamp="1581905806610">
+    <state x="382" y="29" key="CommitChangelistDialog2" timestamp="1581905857238">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="382" y="29" key="CommitChangelistDialog2/0.0.1600.860/-3840.-1254.2560.1400@0.0.1600.860" timestamp="1581905806610" />
-    <state x="392" y="166" key="Vcs.Push.Dialog.v2" timestamp="1581905817193">
+    <state x="382" y="29" key="CommitChangelistDialog2/0.0.1600.860/-3840.-1254.2560.1400@0.0.1600.860" timestamp="1581905857238" />
+    <state x="392" y="166" key="Vcs.Push.Dialog.v2" timestamp="1581905870203">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="166" key="Vcs.Push.Dialog.v2/0.0.1600.860/-3840.-1254.2560.1400@0.0.1600.860" timestamp="1581905817193" />
+    <state x="392" y="166" key="Vcs.Push.Dialog.v2/0.0.1600.860/-3840.-1254.2560.1400@0.0.1600.860" timestamp="1581905870203" />
     <state x="508" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1581904728609">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="508" y="258" key="com.intellij.ide.util.TipDialog/0.0.1600.860/-3840.-1254.2560.1400@0.0.1600.860" timestamp="1581904728609" />
+    <state x="611" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581905984514">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="611" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860/-3840.-1254.2560.1400@0.0.1600.860" timestamp="1581905984514" />
   </component>
 </project>
